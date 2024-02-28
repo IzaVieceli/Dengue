@@ -100,7 +100,7 @@ ul {
 
 /* Estilo para o rodapé da página */
 footer {
-  background-image: linear-gradient(135deg, #eea640 0, #f59c40 7.14%, #fa9141 14.29%, #ff8444 21.43%, #ff7547 28.57%, #ff644c 35.71%, #ff5052 42.86%, #ff3858 50%, #fb1160 57.14%, #f50069 64.29%, #ed0075 71.43%, #e40082 78.57%, #d80090 85.71%, #ca009e 92.86%, #b900ae 100%);
+  background-image: linear-gradient(125deg, #ffff00 0, #ffff00 8.33%, #ecff00 16.67%, #c5ff00 25%, #9aff00 33.33%, #69fa00 41.67%, #0ced0c 50%, #00df31 58.33%, #00d246 66.67%, #00c757 75%, #00be67 83.33%, #00b776 91.67%, #00b187 100%); 
   text-align: center;
   padding: 10px;
   position: absolute;
