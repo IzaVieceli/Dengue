@@ -77,7 +77,11 @@ ul {
  }
 
 
-#meuBotao {
+ .botoes-container {
+  text-align: center;
+}
+
+.botao {
   background-color: #4CAF50;
   border: none;
   color: white;
@@ -86,10 +90,10 @@ ul {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 4px;
   cursor: pointer;
 }
 
-#meuBotao:hover {
+.botao:hover {
   background-color: #45a049;
 }
