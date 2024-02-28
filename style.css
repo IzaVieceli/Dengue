@@ -105,7 +105,7 @@ ul {
 
 /* Estilo para o rodapé da página */
 footer {
-  ackground: linear-gradient(0deg, rgba(233, 237, 14, 1) 13%, rgba(253, 187, 45, 1) 100%);
+  background: linear-gradient(0deg, rgba(233, 237, 14, 1) 13%, rgba(253, 187, 45, 1) 100%);
   text-align: center;
   padding: 10px;
   position: absolute;
