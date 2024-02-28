@@ -105,7 +105,7 @@ ul {
 
 /* Estilo para o rodapé da página */
 footer {
-  background-color: #45a049;
+  background-color: #8eec93;
   text-align: center;
   padding: 10px;
   position: absolute;
@@ -115,3 +115,6 @@ footer {
 
 }
 
+h2{
+  color: red;
+}
