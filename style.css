@@ -87,7 +87,7 @@ ul {
 }
 
 .botao {
-  background-image: linear-gradient(125deg, #ffff00 0, #ffff00 8.33%, #ecff00 16.67%, #c5ff00 25%, #9aff00 33.33%, #69fa00 41.67%, #0ced0c 50%, #00df31 58.33%, #00d246 66.67%, #00c757 75%, #00be67 83.33%, #00b776 91.67%, #00b187 100%);
+  background-color: #45a049;
   border: none;
   color: white;
   padding: 15px 32px;
