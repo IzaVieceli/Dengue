@@ -1,0 +1,95 @@
+#banner {
+	width:60px;
+}
+
+.principal{
+	background: linear-gradient(0deg, rgba(233,237,14,1) 13%, rgba(253,187,45,1) 100%);
+	padding: 30px;
+    
+}
+
+.titulo-principal {
+	padding-left: 20px;
+    font-family: "Archivo Black", sans-serif;
+    
+}
+
+  
+
+.titulo-centralizado {
+	text-align: center
+}
+.titulo-left{
+    text-align: left;
+    color: red;
+}
+
+.titulo-left2{
+    text-align: center;
+    color: red;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #12cc0b;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
+
+.logo {
+    width: 70px; /* Defina o tamanho desejado */
+    top: 20px; /* Distância do topo da página */
+    left: 20px; /* Distância da borda esquerda da página */
+}
+
+.archivo-black-regular {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ .letra{
+    font-family: "Archivo Black", sans-serif;
+ }
+
+
+#meuBotao {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#meuBotao:hover {
+  background-color: #45a049;
+}
