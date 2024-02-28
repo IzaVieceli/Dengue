@@ -10,7 +10,9 @@ body{
 }
 
 
-
+.centro{
+	text-align: center;
+}
 h1{
 	color: #000000;
     font-family: 'RobotoSlab';
