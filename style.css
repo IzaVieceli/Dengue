@@ -50,10 +50,33 @@ em strong {
   font-style: italic
 }
 
+
 .beneficios {
-  background: #FFFFFF;
-  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px; /* Defina a largura máxima conforme necessário */
+  margin: 0 auto; /* Centraliza o conteúdo */
 }
+
+.texto-lateral {
+  flex: 1;
+  padding-right: 20px; /* Espaçamento entre o texto e o vídeo */
+}
+
+.video {
+  flex: 1;
+  max-width: 50%; /* Defina a largura máxima conforme necessário */
+}
+
+.video iframe {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
 
 ul {
   display: inline-block;
