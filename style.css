@@ -57,6 +57,13 @@ ul {
   width: 20%;
   margin-right: 15%;
 }
+.dois{
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  margin-right: 15%;
+}
+}
 
 .imagembeneficios {
   width: 50%;
