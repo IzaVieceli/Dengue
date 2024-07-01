@@ -1,143 +1,132 @@
 #banner {
-  width: 60px;
+  width: 60px; /* Define a largura do banner */
 }
 
 .principal {
-  background-color: #8eec93;
-  padding: 30px;
-
+  background-color: #8eec93; /* Define a cor de fundo da seção principal */
+  padding: 30px; /* Define o preenchimento interno da seção principal */
 }
 
 .titulo-principal {
-  padding-left: 20px;
-  font-family: "Archivo Black", sans-serif;
-
+  padding-left: 20px; /* Define o preenchimento à esquerda do título principal */
+  font-family: "Archivo Black", sans-serif; /* Define a fonte do título principal */
 }
 
-
-
 .titulo-centralizado {
-  text-align: center
+  text-align: center; /* Centraliza o texto */
 }
 
 .titulo-left {
-  text-align: left;
-  color: red;
+  text-align: left; /* Alinha o texto à esquerda */
+  color: red; /* Define a cor do texto como vermelho */
 }
 
-h3{
-  color: red;
+h3 {
+  color: red; /* Define a cor dos cabeçalhos <h3> como vermelho */
 }
 
 .titulo-left2 {
-  text-align: center;
-  color: red;
+  text-align: center; /* Centraliza o texto */
+  color: red; /* Define a cor do texto como vermelho */
 }
 
 p {
-  text-align: center;
+  text-align: center; /* Centraliza o texto dos parágrafos */
 }
 
 #missao {
-  font-size: 20px
+  font-size: 20px; /* Define o tamanho da fonte do elemento com id "missao" */
 }
 
 em strong {
-  color: #12cc0b;
+  color: #12cc0b; /* Define a cor do texto em negrito e itálico como verde */
 }
 
 .itens {
-  font-style: italic
+  font-style: italic; /* Define o estilo da fonte como itálico */
 }
 
 ul {
-  display: inline-block;
-  vertical-align: top;
-  
-  margin-right: 15%;
+  display: inline-block; /* Exibe a lista como um bloco em linha */
+  vertical-align: top; /* Alinha verticalmente ao topo */
+  margin-right: 15%; /* Define a margem à direita */
 }
-.dois{
-  display: inline-block;
-  vertical-align: top;
-  width: 70%;
-  margin-right: 15%;
-}
+
+.dois {
+  display: inline-block; /* Exibe a lista como um bloco em linha */
+  vertical-align: top; /* Alinha verticalmente ao topo */
+  width: 70%; /* Define a largura como 70% */
+  margin-right: 15%; /* Define a margem à direita */
 }
 
 .imagembeneficios {
-  width: 50%;
+  width: 50%; /* Define a largura da imagem dos benefícios */
 }
 
 .logo {
-  width: 70px;
-  /* Defina o tamanho desejado */
-  top: 20px;
-  /* Distância do topo da página */
-  left: 20px;
-  /* Distância da borda esquerda da página */
+  width: 70px; /* Define a largura do logotipo */
+  top: 20px; /* Define a distância do topo da página */
+  left: 20px; /* Define a distância da borda esquerda da página */
 }
 
 .archivo-black-regular {
-  font-family: "Archivo Black", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Archivo Black", sans-serif; /* Define a fonte como "Archivo Black" */
+  font-weight: 400; /* Define a espessura da fonte como 400 */
+  font-style: normal; /* Define o estilo da fonte como normal */
 }
 
 .letra {
-  font-family: "Archivo Black", sans-serif;
+  font-family: "Archivo Black", sans-serif; /* Define a fonte como "Archivo Black" */
 }
 
-
 .botoes-container {
-  text-align: center;
+  text-align: center; /* Centraliza o conteúdo do contêiner de botões */
 }
 
 .botao {
-  background-color: #45a049;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px;
-  cursor: pointer;
+  background-color: #45a049; /* Define a cor de fundo do botão */
+  border: none; /* Remove a borda do botão */
+  color: white; /* Define a cor do texto do botão como branco */
+  padding: 15px 32px; /* Define o preenchimento interno do botão */
+  text-align: center; /* Centraliza o texto do botão */
+  text-decoration: none; /* Remove a decoração do texto */
+  display: inline-block; /* Exibe o botão como um bloco em linha */
+  font-size: 16px; /* Define o tamanho da fonte do botão */
+  margin: 4px; /* Define a margem do botão */
+  cursor: pointer; /* Define o cursor como ponteiro ao passar sobre o botão */
 }
 
 .botao:hover {
-  background-color: #45a049;
+  background-color: #45a049; /* Define a cor de fundo do botão ao passar o mouse */
 }
 
 /* Estilo para o rodapé da página */
 footer {
-  background-color: #8eec93;
-  text-align: center;
-  padding: 10px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  position: fixed;
-
+  background-color: #8eec93; /* Define a cor de fundo do rodapé */
+  text-align: center; /* Centraliza o texto do rodapé */
+  padding: 10px; /* Define o preenchimento interno do rodapé */
+  position: absolute; /* Define o posicionamento do rodapé como absoluto */
+  bottom: 0; /* Define a distância do rodapé em relação ao fundo da página */
+  width: 100%; /* Define a largura do rodapé como 100% */
+  position: fixed; /* Define o rodapé como fixo */
 }
 
-h2{
-  color: red;
+h2 {
+  color: red; /* Define a cor dos cabeçalhos <h2> como vermelho */
 }
 
 .beneficios {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  max-width: 1000px; /* Defina a largura máxima conforme necessário */
-  margin: 0 auto; /* Centraliza o conteúdo */
+  display: flex; /* Exibe os elementos filhos como flexíveis */
+  justify-content: space-between; /* Distribui o espaço entre os elementos filhos */
+  align-items: flex-start; /* Alinha os itens ao início do contêiner flexível */
+  max-width: 1000px; /* Define a largura máxima */
+  margin: 0 auto; /* Centraliza o contêiner */
 }
 
 .texto-lateral {
-  width: 45%; /* Ajuste a largura conforme necessário */
+  width: 45%; /* Define a largura da seção de texto lateral */
 }
 
 .video {
-  width: 45%; /* Ajuste a largura conforme necessário */
+  width: 45%; /* Define a largura da seção de vídeo */
 }
-
